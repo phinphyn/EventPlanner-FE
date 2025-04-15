@@ -1,3 +1,4 @@
+import { Button } from "./components/ui/button"
 function Home() {
     return (
       <div className="text-center py-10">
